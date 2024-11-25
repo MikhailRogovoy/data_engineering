@@ -1,0 +1,5912 @@
+[
+    {
+        "name": "Ройбос",
+        "price": 670,
+        "quantity": 529,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ройбос",
+        "price": 1325,
+        "quantity": 874,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ройбос",
+        "price": 2672,
+        "quantity": 641,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ройбос",
+        "price": 9445,
+        "quantity": 69,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ройбос",
+        "price": 688,
+        "quantity": 879,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ройбос",
+        "price": 6042,
+        "quantity": 727,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ройбос",
+        "price": 444,
+        "quantity": 530,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ройбос",
+        "price": 4159,
+        "quantity": 648,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ройбос",
+        "price": 9644,
+        "quantity": 10,
+        "category": "Напитки"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 7665,
+        "quantity": 34,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 8190,
+        "quantity": 279,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 6033,
+        "quantity": 231,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 9202,
+        "quantity": 550,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 3955,
+        "quantity": 624,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 4492,
+        "quantity": 644,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 1589,
+        "quantity": 740,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 6664,
+        "quantity": 442,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 3914,
+        "quantity": 718,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 5089,
+        "quantity": 81,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 329,
+        "quantity": 652,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 6573,
+        "quantity": 853,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 6104,
+        "quantity": 701,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 4717,
+        "quantity": 37,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 8600,
+        "quantity": 719,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 3010,
+        "quantity": 983,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 3297,
+        "quantity": 896,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 2346,
+        "quantity": 795,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня благодарения",
+        "price": 2421,
+        "quantity": 194,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 5091,
+        "quantity": 474,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 8180,
+        "quantity": 850,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 1412,
+        "quantity": 916,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 3295,
+        "quantity": 364,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 2522,
+        "quantity": 339,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 6051,
+        "quantity": 750,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 2130,
+        "quantity": 794,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 8306,
+        "quantity": 5,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 4757,
+        "quantity": 375,
+        "category": "Мясо"
+    },
+    {
+        "name": "Куриные бедра",
+        "price": 684,
+        "quantity": 86,
+        "category": "Мясо"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 4348,
+        "quantity": 506,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 7439,
+        "quantity": 566,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 9235,
+        "quantity": 521,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 418,
+        "quantity": 795,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 4424,
+        "quantity": 988,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 4864,
+        "quantity": 120,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 6312,
+        "quantity": 589,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 5956,
+        "quantity": 105,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 8808,
+        "quantity": 512,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 5751,
+        "quantity": 821,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 1170,
+        "quantity": 316,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 9770,
+        "quantity": 319,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 7176,
+        "quantity": 68,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 3505,
+        "quantity": 954,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 7501,
+        "quantity": 428,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 3070,
+        "quantity": 205,
+        "category": "Овощи"
+    },
+    {
+        "name": "Лук-порей",
+        "price": 6813,
+        "quantity": 164,
+        "category": "Овощи"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 1945,
+        "quantity": 493,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 534,
+        "quantity": 705,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 1429,
+        "quantity": 531,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 3750,
+        "quantity": 301,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 4535,
+        "quantity": 936,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 4378,
+        "quantity": 376,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 5929,
+        "quantity": 620,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 8895,
+        "quantity": 282,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 1923,
+        "quantity": 547,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 895,
+        "quantity": 294,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 4111,
+        "quantity": 515,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 4858,
+        "quantity": 511,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 179,
+        "quantity": 205,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 192,
+        "quantity": 906,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 4568,
+        "quantity": 135,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для путешествий",
+        "price": 9807,
+        "quantity": 639,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Самса",
+        "price": 1947,
+        "quantity": 362,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 7475,
+        "quantity": 929,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 5960,
+        "quantity": 345,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 7267,
+        "quantity": 713,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 9311,
+        "quantity": 62,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 7914,
+        "quantity": 642,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 8572,
+        "quantity": 928,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 7522,
+        "quantity": 310,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 9624,
+        "quantity": 616,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 4765,
+        "quantity": 222,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 6165,
+        "quantity": 716,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 2855,
+        "quantity": 831,
+        "category": "Мясо"
+    },
+    {
+        "name": "Самса",
+        "price": 4217,
+        "quantity": 611,
+        "category": "Мясо"
+    },
+    {
+        "name": "Сливки",
+        "price": 6261,
+        "quantity": 443,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 3636,
+        "quantity": 754,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 6297,
+        "quantity": 76,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 6076,
+        "quantity": 763,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 3105,
+        "quantity": 661,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 3792,
+        "quantity": 795,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 2784,
+        "quantity": 973,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 3234,
+        "quantity": 428,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 5097,
+        "quantity": 886,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 2295,
+        "quantity": 73,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 9285,
+        "quantity": 892,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 5243,
+        "quantity": 8,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сливки",
+        "price": 8043,
+        "quantity": 933,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Портулак",
+        "price": 7492,
+        "quantity": 550,
+        "category": "Овощи"
+    },
+    {
+        "name": "Портулак",
+        "price": 2279,
+        "quantity": 900,
+        "category": "Овощи"
+    },
+    {
+        "name": "Портулак",
+        "price": 7504,
+        "quantity": 916,
+        "category": "Овощи"
+    },
+    {
+        "name": "Портулак",
+        "price": 3672,
+        "quantity": 137,
+        "category": "Овощи"
+    },
+    {
+        "name": "Портулак",
+        "price": 4516,
+        "quantity": 22,
+        "category": "Овощи"
+    },
+    {
+        "name": "Портулак",
+        "price": 7902,
+        "quantity": 237,
+        "category": "Овощи"
+    },
+    {
+        "name": "Портулак",
+        "price": 123,
+        "quantity": 488,
+        "category": "Овощи"
+    },
+    {
+        "name": "Архыз",
+        "price": 4817,
+        "quantity": 921,
+        "category": "Напитки"
+    },
+    {
+        "name": "Архыз",
+        "price": 5697,
+        "quantity": 242,
+        "category": "Напитки"
+    },
+    {
+        "name": "Архыз",
+        "price": 7488,
+        "quantity": 657,
+        "category": "Напитки"
+    },
+    {
+        "name": "Архыз",
+        "price": 4843,
+        "quantity": 462,
+        "category": "Напитки"
+    },
+    {
+        "name": "Архыз",
+        "price": 3474,
+        "quantity": 839,
+        "category": "Напитки"
+    },
+    {
+        "name": "Архыз",
+        "price": 8896,
+        "quantity": 161,
+        "category": "Напитки"
+    },
+    {
+        "name": "Архыз",
+        "price": 7479,
+        "quantity": 276,
+        "category": "Напитки"
+    },
+    {
+        "name": "Батат",
+        "price": 9794,
+        "quantity": 438,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 2430,
+        "quantity": 885,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 7431,
+        "quantity": 148,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 8331,
+        "quantity": 521,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 6491,
+        "quantity": 571,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 3376,
+        "quantity": 669,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 5654,
+        "quantity": 463,
+        "category": "Овощи"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 6668,
+        "quantity": 968,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 4972,
+        "quantity": 623,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 7388,
+        "quantity": 455,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 5620,
+        "quantity": 383,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 3213,
+        "quantity": 451,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 6243,
+        "quantity": 347,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 4051,
+        "quantity": 500,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 6560,
+        "quantity": 296,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 5126,
+        "quantity": 762,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 7227,
+        "quantity": 655,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 3145,
+        "quantity": 774,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 7202,
+        "quantity": 720,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 4464,
+        "quantity": 793,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 7447,
+        "quantity": 530,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пищевая пленка",
+        "price": 5510,
+        "quantity": 638,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Брынза",
+        "price": 4689,
+        "quantity": 824,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 8860,
+        "quantity": 78,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 1940,
+        "quantity": 2,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 1081,
+        "quantity": 230,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 1422,
+        "quantity": 895,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 2789,
+        "quantity": 870,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 7470,
+        "quantity": 715,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Соль",
+        "price": 304,
+        "quantity": 930,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 781,
+        "quantity": 671,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 4600,
+        "quantity": 869,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 2533,
+        "quantity": 921,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 6935,
+        "quantity": 537,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 2281,
+        "quantity": 128,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 4430,
+        "quantity": 1,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 3584,
+        "quantity": 988,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 450,
+        "quantity": 849,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 5164,
+        "quantity": 705,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 1791,
+        "quantity": 816,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 3472,
+        "quantity": 524,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 5195,
+        "quantity": 760,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 6594,
+        "quantity": 66,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 5536,
+        "quantity": 178,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 4883,
+        "quantity": 915,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 5752,
+        "quantity": 714,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Соль",
+        "price": 3277,
+        "quantity": 588,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Гранат",
+        "price": 2053,
+        "quantity": 415,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 3540,
+        "quantity": 748,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 3699,
+        "quantity": 275,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 9597,
+        "quantity": 507,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 5086,
+        "quantity": 699,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 392,
+        "quantity": 25,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 1900,
+        "quantity": 409,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 4455,
+        "quantity": 351,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 3392,
+        "quantity": 169,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 8103,
+        "quantity": 350,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 384,
+        "quantity": 849,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Гранат",
+        "price": 3637,
+        "quantity": 445,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Камут",
+        "price": 156,
+        "quantity": 510,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 3318,
+        "quantity": 88,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 3386,
+        "quantity": 474,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 5190,
+        "quantity": 876,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 3998,
+        "quantity": 338,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 9702,
+        "quantity": 640,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 3216,
+        "quantity": 78,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 4932,
+        "quantity": 443,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Пакеты для Дня Победы",
+        "price": 8304,
+        "quantity": 590,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня Победы",
+        "price": 7588,
+        "quantity": 3,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня Победы",
+        "price": 6342,
+        "quantity": 7,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня Победы",
+        "price": 365,
+        "quantity": 480,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня Победы",
+        "price": 9375,
+        "quantity": 204,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня Победы",
+        "price": 3810,
+        "quantity": 235,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня Победы",
+        "price": 380,
+        "quantity": 396,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 178,
+        "quantity": 439,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 5007,
+        "quantity": 321,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 1612,
+        "quantity": 3,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 7267,
+        "quantity": 765,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 8032,
+        "quantity": 903,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 620,
+        "quantity": 28,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 9122,
+        "quantity": 515,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 748,
+        "quantity": 781,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 9154,
+        "quantity": 818,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 2644,
+        "quantity": 127,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 6480,
+        "quantity": 870,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 7579,
+        "quantity": 144,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 693,
+        "quantity": 968,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 4933,
+        "quantity": 826,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 9775,
+        "quantity": 401,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 2222,
+        "quantity": 771,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 5079,
+        "quantity": 527,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Фейхоа",
+        "price": 2768,
+        "quantity": 13,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Пакеты для Дня учителя",
+        "price": 6378,
+        "quantity": 710,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня учителя",
+        "price": 1695,
+        "quantity": 561,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня учителя",
+        "price": 4861,
+        "quantity": 450,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня учителя",
+        "price": 4239,
+        "quantity": 542,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня учителя",
+        "price": 7262,
+        "quantity": 437,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня учителя",
+        "price": 2294,
+        "quantity": 357,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня учителя",
+        "price": 453,
+        "quantity": 743,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для Дня учителя",
+        "price": 5560,
+        "quantity": 609,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 9471,
+        "quantity": 756,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 1248,
+        "quantity": 936,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 2797,
+        "quantity": 881,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 3987,
+        "quantity": 755,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 2112,
+        "quantity": 749,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 1439,
+        "quantity": 444,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 7973,
+        "quantity": 795,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 9851,
+        "quantity": 915,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 901,
+        "quantity": 180,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 8166,
+        "quantity": 315,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 3387,
+        "quantity": 350,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 565,
+        "quantity": 495,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Топлёное молоко",
+        "price": 1872,
+        "quantity": 952,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Ножи столовые",
+        "price": 2186,
+        "quantity": 865,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Ножи столовые",
+        "price": 7805,
+        "quantity": 558,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Ножи столовые",
+        "price": 2674,
+        "quantity": 710,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Ножи столовые",
+        "price": 9353,
+        "quantity": 710,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Ножи столовые",
+        "price": 8225,
+        "quantity": 593,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Щавель",
+        "price": 1969,
+        "quantity": 209,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 5261,
+        "quantity": 153,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 2875,
+        "quantity": 154,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 7037,
+        "quantity": 795,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 4688,
+        "quantity": 525,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 5234,
+        "quantity": 952,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 2068,
+        "quantity": 232,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 9574,
+        "quantity": 254,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 5329,
+        "quantity": 477,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 4910,
+        "quantity": 705,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 6734,
+        "quantity": 362,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 7678,
+        "quantity": 19,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 6795,
+        "quantity": 524,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 4020,
+        "quantity": 117,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 5321,
+        "quantity": 452,
+        "category": "Овощи"
+    },
+    {
+        "name": "Щавель",
+        "price": 9197,
+        "quantity": 693,
+        "category": "Овощи"
+    },
+    {
+        "name": "Баранина",
+        "price": 3813,
+        "quantity": 600,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 821,
+        "quantity": 826,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 9884,
+        "quantity": 427,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 6694,
+        "quantity": 271,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 6693,
+        "quantity": 389,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 2303,
+        "quantity": 953,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 9005,
+        "quantity": 396,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 5515,
+        "quantity": 516,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 9008,
+        "quantity": 457,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 3176,
+        "quantity": 321,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 2507,
+        "quantity": 789,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 3361,
+        "quantity": 621,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 1877,
+        "quantity": 124,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 350,
+        "quantity": 780,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 3505,
+        "quantity": 635,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 5204,
+        "quantity": 856,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 3438,
+        "quantity": 575,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 2241,
+        "quantity": 833,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 4921,
+        "quantity": 782,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баранина",
+        "price": 2665,
+        "quantity": 186,
+        "category": "Мясо"
+    },
+    {
+        "name": "Мороженое",
+        "price": 4025,
+        "quantity": 391,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мороженое",
+        "price": 7915,
+        "quantity": 679,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мороженое",
+        "price": 4571,
+        "quantity": 63,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мороженое",
+        "price": 6494,
+        "quantity": 247,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мороженое",
+        "price": 2794,
+        "quantity": 327,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мороженое",
+        "price": 2410,
+        "quantity": 358,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мороженое",
+        "price": 6421,
+        "quantity": 152,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мороженое",
+        "price": 8979,
+        "quantity": 148,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 4647,
+        "quantity": 138,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 2990,
+        "quantity": 713,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 6824,
+        "quantity": 286,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 7178,
+        "quantity": 918,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 3490,
+        "quantity": 34,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 6044,
+        "quantity": 672,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 1416,
+        "quantity": 231,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 2019,
+        "quantity": 383,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 3468,
+        "quantity": 539,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 3358,
+        "quantity": 933,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 5518,
+        "quantity": 334,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Крахмал картофельный",
+        "price": 2962,
+        "quantity": 125,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Творог",
+        "price": 328,
+        "quantity": 824,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 4191,
+        "quantity": 682,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 6839,
+        "quantity": 454,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 3180,
+        "quantity": 884,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 324,
+        "quantity": 574,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 8802,
+        "quantity": 842,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 9455,
+        "quantity": 690,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 7925,
+        "quantity": 515,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 7569,
+        "quantity": 314,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 497,
+        "quantity": 161,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 9569,
+        "quantity": 827,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 1199,
+        "quantity": 540,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 726,
+        "quantity": 737,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 8863,
+        "quantity": 305,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 7809,
+        "quantity": 66,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 9316,
+        "quantity": 445,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 325,
+        "quantity": 324,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 1282,
+        "quantity": 131,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 315,
+        "quantity": 525,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 2029,
+        "quantity": 373,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 9859,
+        "quantity": 217,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 2113,
+        "quantity": 789,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 1903,
+        "quantity": 33,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 2079,
+        "quantity": 883,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 6610,
+        "quantity": 798,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 8981,
+        "quantity": 876,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 5310,
+        "quantity": 148,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 8198,
+        "quantity": 251,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 365,
+        "quantity": 487,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 9226,
+        "quantity": 257,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 6896,
+        "quantity": 595,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 671,
+        "quantity": 189,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 674,
+        "quantity": 735,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 4485,
+        "quantity": 897,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 4334,
+        "quantity": 426,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 9231,
+        "quantity": 901,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 1873,
+        "quantity": 519,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 8414,
+        "quantity": 380,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 6887,
+        "quantity": 290,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 1669,
+        "quantity": 406,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 7095,
+        "quantity": 638,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 7678,
+        "quantity": 442,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 7517,
+        "quantity": 987,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 7448,
+        "quantity": 990,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Дыня",
+        "price": 7457,
+        "quantity": 237,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 9318,
+        "quantity": 455,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 5295,
+        "quantity": 436,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 956,
+        "quantity": 694,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 3005,
+        "quantity": 759,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 727,
+        "quantity": 96,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 3225,
+        "quantity": 373,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 1405,
+        "quantity": 37,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 2147,
+        "quantity": 845,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 8192,
+        "quantity": 939,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 6285,
+        "quantity": 923,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Киви",
+        "price": 8129,
+        "quantity": 126,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 8941,
+        "quantity": 671,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 424,
+        "quantity": 724,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 4873,
+        "quantity": 894,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 1128,
+        "quantity": 830,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 8730,
+        "quantity": 43,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 5427,
+        "quantity": 692,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 8486,
+        "quantity": 262,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 1034,
+        "quantity": 955,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 8859,
+        "quantity": 657,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 2739,
+        "quantity": 880,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 8302,
+        "quantity": 188,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 5575,
+        "quantity": 103,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 3585,
+        "quantity": 716,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 5362,
+        "quantity": 367,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 1024,
+        "quantity": 472,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Салфетки сухие",
+        "price": 3883,
+        "quantity": 775,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Творог",
+        "price": 8325,
+        "quantity": 951,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Творог",
+        "price": 4857,
+        "quantity": 2,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Творог",
+        "price": 7956,
+        "quantity": 524,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Творог",
+        "price": 8184,
+        "quantity": 380,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Творог",
+        "price": 2929,
+        "quantity": 134,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Творог",
+        "price": 4374,
+        "quantity": 748,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Творог",
+        "price": 8748,
+        "quantity": 548,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Творог",
+        "price": 5618,
+        "quantity": 787,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 3050,
+        "quantity": 447,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 6326,
+        "quantity": 540,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 653,
+        "quantity": 163,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 5946,
+        "quantity": 437,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 3386,
+        "quantity": 8,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 5739,
+        "quantity": 739,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 8543,
+        "quantity": 30,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Манго",
+        "price": 9725,
+        "quantity": 372,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Манго",
+        "price": 4895,
+        "quantity": 263,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Манго",
+        "price": 6661,
+        "quantity": 824,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Манго",
+        "price": 2843,
+        "quantity": 547,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Манго",
+        "price": 7498,
+        "quantity": 840,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Манго",
+        "price": 9700,
+        "quantity": 855,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Манго",
+        "price": 2539,
+        "quantity": 273,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Манго",
+        "price": 2468,
+        "quantity": 707,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Манго",
+        "price": 7134,
+        "quantity": 322,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Массандра",
+        "price": 7683,
+        "quantity": 752,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 8532,
+        "quantity": 780,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 1558,
+        "quantity": 462,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 3560,
+        "quantity": 47,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 2262,
+        "quantity": 199,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 7226,
+        "quantity": 71,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 7208,
+        "quantity": 975,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 6171,
+        "quantity": 316,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 8335,
+        "quantity": 236,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 7682,
+        "quantity": 511,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 8072,
+        "quantity": 368,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 1426,
+        "quantity": 623,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 4850,
+        "quantity": 815,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 1917,
+        "quantity": 580,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 7735,
+        "quantity": 651,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 1437,
+        "quantity": 378,
+        "category": "Напитки"
+    },
+    {
+        "name": "Массандра",
+        "price": 1228,
+        "quantity": 504,
+        "category": "Напитки"
+    },
+    {
+        "name": "Смузи бананово-клубничный",
+        "price": 5075,
+        "quantity": 909,
+        "category": "Напитки"
+    },
+    {
+        "name": "Смузи бананово-клубничный",
+        "price": 2396,
+        "quantity": 182,
+        "category": "Напитки"
+    },
+    {
+        "name": "Смузи бананово-клубничный",
+        "price": 661,
+        "quantity": 483,
+        "category": "Напитки"
+    },
+    {
+        "name": "Смузи бананово-клубничный",
+        "price": 9703,
+        "quantity": 390,
+        "category": "Напитки"
+    },
+    {
+        "name": "Смузи бананово-клубничный",
+        "price": 187,
+        "quantity": 574,
+        "category": "Напитки"
+    },
+    {
+        "name": "Брокколи",
+        "price": 5261,
+        "quantity": 83,
+        "category": "Овощи"
+    },
+    {
+        "name": "Брокколи",
+        "price": 7564,
+        "quantity": 752,
+        "category": "Овощи"
+    },
+    {
+        "name": "Брокколи",
+        "price": 5130,
+        "quantity": 696,
+        "category": "Овощи"
+    },
+    {
+        "name": "Брокколи",
+        "price": 2752,
+        "quantity": 130,
+        "category": "Овощи"
+    },
+    {
+        "name": "Брокколи",
+        "price": 2282,
+        "quantity": 137,
+        "category": "Овощи"
+    },
+    {
+        "name": "Брокколи",
+        "price": 3329,
+        "quantity": 561,
+        "category": "Овощи"
+    },
+    {
+        "name": "Брокколи",
+        "price": 1377,
+        "quantity": 555,
+        "category": "Овощи"
+    },
+    {
+        "name": "Бамия",
+        "price": 975,
+        "quantity": 366,
+        "category": "Овощи"
+    },
+    {
+        "name": "Бамия",
+        "price": 7421,
+        "quantity": 441,
+        "category": "Овощи"
+    },
+    {
+        "name": "Бамия",
+        "price": 5938,
+        "quantity": 373,
+        "category": "Овощи"
+    },
+    {
+        "name": "Бамия",
+        "price": 7864,
+        "quantity": 287,
+        "category": "Овощи"
+    },
+    {
+        "name": "Бамия",
+        "price": 2265,
+        "quantity": 777,
+        "category": "Овощи"
+    },
+    {
+        "name": "Бамия",
+        "price": 1457,
+        "quantity": 531,
+        "category": "Овощи"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 4487,
+        "quantity": 510,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 3389,
+        "quantity": 52,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 5089,
+        "quantity": 703,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 629,
+        "quantity": 325,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 1735,
+        "quantity": 408,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 4298,
+        "quantity": 168,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 1161,
+        "quantity": 703,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 696,
+        "quantity": 806,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 8937,
+        "quantity": 945,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 828,
+        "quantity": 471,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 1569,
+        "quantity": 453,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 5116,
+        "quantity": 206,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 9226,
+        "quantity": 653,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 3166,
+        "quantity": 974,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 802,
+        "quantity": 375,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 3854,
+        "quantity": 593,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 2665,
+        "quantity": 334,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 2630,
+        "quantity": 93,
+        "category": "Напитки"
+    },
+    {
+        "name": "Ставропольская",
+        "price": 9358,
+        "quantity": 201,
+        "category": "Напитки"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 6838,
+        "quantity": 923,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 4279,
+        "quantity": 769,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 9096,
+        "quantity": 974,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 5052,
+        "quantity": 685,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 1645,
+        "quantity": 424,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 7785,
+        "quantity": 839,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 9626,
+        "quantity": 311,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 1405,
+        "quantity": 498,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 2577,
+        "quantity": 112,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 8351,
+        "quantity": 439,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 3724,
+        "quantity": 507,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 1556,
+        "quantity": 113,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 7444,
+        "quantity": 272,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Робот-пылесос",
+        "price": 5088,
+        "quantity": 588,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 2347,
+        "quantity": 277,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 3031,
+        "quantity": 595,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 2013,
+        "quantity": 429,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 2841,
+        "quantity": 700,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 2761,
+        "quantity": 47,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 6176,
+        "quantity": 21,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 689,
+        "quantity": 4,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 8124,
+        "quantity": 258,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 5617,
+        "quantity": 312,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 1848,
+        "quantity": 579,
+        "category": "Мясо"
+    },
+    {
+        "name": "Тако с мясом",
+        "price": 6690,
+        "quantity": 823,
+        "category": "Мясо"
+    },
+    {
+        "name": "Баклажан",
+        "price": 4712,
+        "quantity": 323,
+        "category": "Овощи"
+    },
+    {
+        "name": "Баклажан",
+        "price": 1427,
+        "quantity": 776,
+        "category": "Овощи"
+    },
+    {
+        "name": "Баклажан",
+        "price": 1487,
+        "quantity": 376,
+        "category": "Овощи"
+    },
+    {
+        "name": "Баклажан",
+        "price": 7441,
+        "quantity": 442,
+        "category": "Овощи"
+    },
+    {
+        "name": "Баклажан",
+        "price": 7321,
+        "quantity": 13,
+        "category": "Овощи"
+    },
+    {
+        "name": "Баклажан",
+        "price": 6704,
+        "quantity": 30,
+        "category": "Овощи"
+    },
+    {
+        "name": "Баклажан",
+        "price": 1816,
+        "quantity": 685,
+        "category": "Овощи"
+    },
+    {
+        "name": "Баклажан",
+        "price": 2445,
+        "quantity": 626,
+        "category": "Овощи"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 2436,
+        "quantity": 949,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 3091,
+        "quantity": 884,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 6632,
+        "quantity": 631,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 6582,
+        "quantity": 89,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 9579,
+        "quantity": 957,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 3114,
+        "quantity": 140,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 5114,
+        "quantity": 756,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 1661,
+        "quantity": 700,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 4704,
+        "quantity": 512,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 5565,
+        "quantity": 548,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 3538,
+        "quantity": 74,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 202,
+        "quantity": 661,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 4015,
+        "quantity": 379,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 6935,
+        "quantity": 204,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 5626,
+        "quantity": 282,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 382,
+        "quantity": 617,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 4817,
+        "quantity": 340,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Йогурт натуральный",
+        "price": 8737,
+        "quantity": 281,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Курица",
+        "price": 4155,
+        "quantity": 317,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 244,
+        "quantity": 145,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 7266,
+        "quantity": 574,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 5306,
+        "quantity": 760,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 404,
+        "quantity": 834,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 8798,
+        "quantity": 480,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 4130,
+        "quantity": 814,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 9865,
+        "quantity": 573,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 7440,
+        "quantity": 135,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 8801,
+        "quantity": 263,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 5308,
+        "quantity": 717,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 8642,
+        "quantity": 706,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 5634,
+        "quantity": 503,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 1765,
+        "quantity": 183,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 6338,
+        "quantity": 388,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 4197,
+        "quantity": 544,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 1006,
+        "quantity": 819,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 8060,
+        "quantity": 332,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 3152,
+        "quantity": 334,
+        "category": "Мясо"
+    },
+    {
+        "name": "Курица",
+        "price": 6336,
+        "quantity": 547,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 9561,
+        "quantity": 601,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 9784,
+        "quantity": 378,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 6703,
+        "quantity": 438,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 1560,
+        "quantity": 260,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 9010,
+        "quantity": 679,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 9239,
+        "quantity": 662,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 1017,
+        "quantity": 745,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 6077,
+        "quantity": 770,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 7782,
+        "quantity": 24,
+        "category": "Мясо"
+    },
+    {
+        "name": "Шаверма",
+        "price": 3452,
+        "quantity": 915,
+        "category": "Мясо"
+    },
+    {
+        "name": "Солонина",
+        "price": 141,
+        "quantity": 846,
+        "category": "Мясо"
+    },
+    {
+        "name": "Солонина",
+        "price": 883,
+        "quantity": 476,
+        "category": "Мясо"
+    },
+    {
+        "name": "Солонина",
+        "price": 9708,
+        "quantity": 812,
+        "category": "Мясо"
+    },
+    {
+        "name": "Солонина",
+        "price": 3701,
+        "quantity": 967,
+        "category": "Мясо"
+    },
+    {
+        "name": "Солонина",
+        "price": 7307,
+        "quantity": 391,
+        "category": "Мясо"
+    },
+    {
+        "name": "Солонина",
+        "price": 3165,
+        "quantity": 997,
+        "category": "Мясо"
+    },
+    {
+        "name": "Солонина",
+        "price": 9638,
+        "quantity": 925,
+        "category": "Мясо"
+    },
+    {
+        "name": "Карачинская",
+        "price": 1819,
+        "quantity": 959,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 6665,
+        "quantity": 483,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 6869,
+        "quantity": 49,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 6393,
+        "quantity": 517,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 5696,
+        "quantity": 447,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 5256,
+        "quantity": 386,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 5977,
+        "quantity": 925,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 7700,
+        "quantity": 349,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 6794,
+        "quantity": 838,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 110,
+        "quantity": 919,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 5988,
+        "quantity": 918,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 3424,
+        "quantity": 754,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 5799,
+        "quantity": 147,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 3598,
+        "quantity": 180,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 1406,
+        "quantity": 474,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 4689,
+        "quantity": 980,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 2603,
+        "quantity": 966,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 3077,
+        "quantity": 960,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 9972,
+        "quantity": 396,
+        "category": "Напитки"
+    },
+    {
+        "name": "Карачинская",
+        "price": 1786,
+        "quantity": 784,
+        "category": "Напитки"
+    },
+    {
+        "name": "Морковь",
+        "price": 6354,
+        "quantity": 197,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 9926,
+        "quantity": 937,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 6386,
+        "quantity": 468,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 3169,
+        "quantity": 885,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 5977,
+        "quantity": 775,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 4495,
+        "quantity": 278,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 541,
+        "quantity": 132,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 3305,
+        "quantity": 554,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 7175,
+        "quantity": 602,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 8647,
+        "quantity": 237,
+        "category": "Овощи"
+    },
+    {
+        "name": "Морковь",
+        "price": 5268,
+        "quantity": 377,
+        "category": "Овощи"
+    },
+    {
+        "name": "Варенец",
+        "price": 6239,
+        "quantity": 405,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 4422,
+        "quantity": 767,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 4648,
+        "quantity": 831,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 2818,
+        "quantity": 689,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 2012,
+        "quantity": 998,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 940,
+        "quantity": 586,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 4391,
+        "quantity": 823,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 9006,
+        "quantity": 157,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 2616,
+        "quantity": 916,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 9001,
+        "quantity": 139,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 7086,
+        "quantity": 660,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 7651,
+        "quantity": 954,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 1444,
+        "quantity": 465,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 1796,
+        "quantity": 407,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 5531,
+        "quantity": 972,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 1071,
+        "quantity": 976,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Варенец",
+        "price": 4609,
+        "quantity": 163,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Спаржа",
+        "price": 6853,
+        "quantity": 990,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 2273,
+        "quantity": 359,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 8749,
+        "quantity": 265,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 2946,
+        "quantity": 808,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 4723,
+        "quantity": 183,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 8024,
+        "quantity": 551,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 3516,
+        "quantity": 496,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 3148,
+        "quantity": 578,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 5974,
+        "quantity": 127,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 9356,
+        "quantity": 484,
+        "category": "Овощи"
+    },
+    {
+        "name": "Спаржа",
+        "price": 233,
+        "quantity": 872,
+        "category": "Овощи"
+    },
+    {
+        "name": "Блины с мясом",
+        "price": 488,
+        "quantity": 691,
+        "category": "Мясо"
+    },
+    {
+        "name": "Блины с мясом",
+        "price": 6622,
+        "quantity": 99,
+        "category": "Мясо"
+    },
+    {
+        "name": "Блины с мясом",
+        "price": 1825,
+        "quantity": 970,
+        "category": "Мясо"
+    },
+    {
+        "name": "Блины с мясом",
+        "price": 6632,
+        "quantity": 868,
+        "category": "Мясо"
+    },
+    {
+        "name": "Блины с мясом",
+        "price": 7217,
+        "quantity": 138,
+        "category": "Мясо"
+    },
+    {
+        "name": "Блины с мясом",
+        "price": 7414,
+        "quantity": 789,
+        "category": "Мясо"
+    },
+    {
+        "name": "Блины с мясом",
+        "price": 6780,
+        "quantity": 694,
+        "category": "Мясо"
+    },
+    {
+        "name": "Мацони",
+        "price": 9249,
+        "quantity": 20,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 6233,
+        "quantity": 61,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 4107,
+        "quantity": 763,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 1140,
+        "quantity": 368,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 5244,
+        "quantity": 264,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 1982,
+        "quantity": 72,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 7983,
+        "quantity": 70,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 2009,
+        "quantity": 999,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 6047,
+        "quantity": 571,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 5469,
+        "quantity": 905,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 2798,
+        "quantity": 794,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 4313,
+        "quantity": 705,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 5097,
+        "quantity": 222,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 5848,
+        "quantity": 939,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 1203,
+        "quantity": 750,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 5757,
+        "quantity": 218,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 3377,
+        "quantity": 869,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Мацони",
+        "price": 1401,
+        "quantity": 454,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Йогурт",
+        "price": 4620,
+        "quantity": 241,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Йогурт",
+        "price": 368,
+        "quantity": 927,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Йогурт",
+        "price": 4566,
+        "quantity": 885,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Йогурт",
+        "price": 4604,
+        "quantity": 359,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Йогурт",
+        "price": 6737,
+        "quantity": 875,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Йогурт",
+        "price": 2756,
+        "quantity": 208,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 6289,
+        "quantity": 249,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 2590,
+        "quantity": 785,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 5555,
+        "quantity": 542,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 9132,
+        "quantity": 761,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 2471,
+        "quantity": 132,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 7554,
+        "quantity": 928,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 344,
+        "quantity": 730,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 1377,
+        "quantity": 925,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 2456,
+        "quantity": 377,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Творог",
+        "price": 7858,
+        "quantity": 77,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 1680,
+        "quantity": 531,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 2671,
+        "quantity": 417,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 1768,
+        "quantity": 945,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 7376,
+        "quantity": 475,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 7061,
+        "quantity": 873,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 2027,
+        "quantity": 938,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 5063,
+        "quantity": 447,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 7413,
+        "quantity": 383,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 5930,
+        "quantity": 67,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 8830,
+        "quantity": 315,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 4704,
+        "quantity": 10,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 4971,
+        "quantity": 485,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 5838,
+        "quantity": 612,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 4013,
+        "quantity": 775,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 4488,
+        "quantity": 860,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 6139,
+        "quantity": 169,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 6682,
+        "quantity": 822,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 6015,
+        "quantity": 332,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 3452,
+        "quantity": 912,
+        "category": "Напитки"
+    },
+    {
+        "name": "Березовский родник",
+        "price": 4570,
+        "quantity": 700,
+        "category": "Напитки"
+    },
+    {
+        "name": "Яблоко",
+        "price": 8596,
+        "quantity": 759,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 2981,
+        "quantity": 840,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 5914,
+        "quantity": 228,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 2276,
+        "quantity": 717,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 1632,
+        "quantity": 724,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 6134,
+        "quantity": 240,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 7082,
+        "quantity": 666,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 5390,
+        "quantity": 18,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 5603,
+        "quantity": 522,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 8665,
+        "quantity": 463,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 2006,
+        "quantity": 803,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 4341,
+        "quantity": 333,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 1420,
+        "quantity": 107,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 4478,
+        "quantity": 804,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 7285,
+        "quantity": 840,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 1923,
+        "quantity": 34,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 3828,
+        "quantity": 803,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 7550,
+        "quantity": 160,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 2140,
+        "quantity": 16,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Яблоко",
+        "price": 8915,
+        "quantity": 466,
+        "category": "Фрукты"
+    },
+    {
+        "name": "Варенье",
+        "price": 7784,
+        "quantity": 889,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Варенье",
+        "price": 7746,
+        "quantity": 706,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Варенье",
+        "price": 3309,
+        "quantity": 29,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Варенье",
+        "price": 2739,
+        "quantity": 417,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Варенье",
+        "price": 7323,
+        "quantity": 349,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Варенье",
+        "price": 6109,
+        "quantity": 967,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Брынза",
+        "price": 1446,
+        "quantity": 754,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 5095,
+        "quantity": 144,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 1665,
+        "quantity": 580,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 2525,
+        "quantity": 341,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 4779,
+        "quantity": 929,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 7487,
+        "quantity": 193,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 4145,
+        "quantity": 983,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 8796,
+        "quantity": 317,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Брынза",
+        "price": 4893,
+        "quantity": 572,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 660,
+        "quantity": 564,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 6426,
+        "quantity": 789,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 1016,
+        "quantity": 501,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 928,
+        "quantity": 917,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 7873,
+        "quantity": 349,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 4555,
+        "quantity": 111,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 2101,
+        "quantity": 916,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 5860,
+        "quantity": 343,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 9964,
+        "quantity": 209,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 5306,
+        "quantity": 676,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 7983,
+        "quantity": 678,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 2348,
+        "quantity": 549,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 7805,
+        "quantity": 930,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 2106,
+        "quantity": 182,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 5380,
+        "quantity": 843,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло льняное",
+        "price": 3417,
+        "quantity": 924,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Айран",
+        "price": 4614,
+        "quantity": 184,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 6315,
+        "quantity": 707,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 3359,
+        "quantity": 151,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 6208,
+        "quantity": 164,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 3299,
+        "quantity": 304,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 2289,
+        "quantity": 826,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 1585,
+        "quantity": 821,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 9425,
+        "quantity": 320,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 7036,
+        "quantity": 422,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 3929,
+        "quantity": 378,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 5087,
+        "quantity": 162,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 1376,
+        "quantity": 733,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 9965,
+        "quantity": 952,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 8481,
+        "quantity": 798,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 8648,
+        "quantity": 747,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 5537,
+        "quantity": 771,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 976,
+        "quantity": 423,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 1003,
+        "quantity": 551,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 6440,
+        "quantity": 841,
+        "category": "Напитки"
+    },
+    {
+        "name": "Айран",
+        "price": 6802,
+        "quantity": 991,
+        "category": "Напитки"
+    },
+    {
+        "name": "Фета",
+        "price": 3675,
+        "quantity": 780,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Фета",
+        "price": 699,
+        "quantity": 990,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Фета",
+        "price": 492,
+        "quantity": 3,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Фета",
+        "price": 2795,
+        "quantity": 997,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Фета",
+        "price": 1548,
+        "quantity": 72,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Фета",
+        "price": 6641,
+        "quantity": 701,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Шумовки",
+        "price": 2884,
+        "quantity": 405,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 3668,
+        "quantity": 241,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 7561,
+        "quantity": 60,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 151,
+        "quantity": 460,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 2560,
+        "quantity": 566,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 7671,
+        "quantity": 905,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 505,
+        "quantity": 405,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 7407,
+        "quantity": 44,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 9855,
+        "quantity": 10,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 1496,
+        "quantity": 946,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 138,
+        "quantity": 936,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 2671,
+        "quantity": 377,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Шумовки",
+        "price": 1377,
+        "quantity": 813,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пармезан",
+        "price": 9063,
+        "quantity": 746,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 5747,
+        "quantity": 114,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 4351,
+        "quantity": 281,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 5134,
+        "quantity": 548,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 4281,
+        "quantity": 117,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 7827,
+        "quantity": 34,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 4349,
+        "quantity": 858,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 3836,
+        "quantity": 698,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 9955,
+        "quantity": 917,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 363,
+        "quantity": 863,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 2460,
+        "quantity": 800,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 7729,
+        "quantity": 519,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 4255,
+        "quantity": 198,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 9861,
+        "quantity": 483,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 3788,
+        "quantity": 153,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 2086,
+        "quantity": 110,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 1896,
+        "quantity": 583,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 5586,
+        "quantity": 130,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 2532,
+        "quantity": 759,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 1928,
+        "quantity": 574,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 5423,
+        "quantity": 102,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 1961,
+        "quantity": 885,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 2457,
+        "quantity": 362,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 3050,
+        "quantity": 521,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 5877,
+        "quantity": 386,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 2294,
+        "quantity": 391,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 2096,
+        "quantity": 362,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 6483,
+        "quantity": 125,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 7940,
+        "quantity": 469,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 3522,
+        "quantity": 712,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 4995,
+        "quantity": 692,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 7511,
+        "quantity": 864,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 4622,
+        "quantity": 529,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 6214,
+        "quantity": 527,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 6019,
+        "quantity": 618,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Растительное масло тыквенное",
+        "price": 9718,
+        "quantity": 376,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Буузы",
+        "price": 7730,
+        "quantity": 72,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 3947,
+        "quantity": 421,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 1229,
+        "quantity": 11,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 7867,
+        "quantity": 913,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 4170,
+        "quantity": 705,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 3048,
+        "quantity": 139,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 7642,
+        "quantity": 963,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 8190,
+        "quantity": 312,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 9078,
+        "quantity": 170,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 9037,
+        "quantity": 958,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 3486,
+        "quantity": 425,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 6750,
+        "quantity": 499,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 806,
+        "quantity": 989,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 7856,
+        "quantity": 979,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 681,
+        "quantity": 54,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 5610,
+        "quantity": 872,
+        "category": "Мясо"
+    },
+    {
+        "name": "Буузы",
+        "price": 1625,
+        "quantity": 581,
+        "category": "Мясо"
+    },
+    {
+        "name": "Пармезан",
+        "price": 6901,
+        "quantity": 700,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 9622,
+        "quantity": 208,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 4655,
+        "quantity": 9,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 3072,
+        "quantity": 918,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 3559,
+        "quantity": 648,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 4418,
+        "quantity": 297,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 4484,
+        "quantity": 79,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 8351,
+        "quantity": 919,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 7142,
+        "quantity": 602,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 2945,
+        "quantity": 173,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 5307,
+        "quantity": 560,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 2868,
+        "quantity": 247,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 6690,
+        "quantity": 595,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 3093,
+        "quantity": 716,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пармезан",
+        "price": 6213,
+        "quantity": 998,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сушеные грибы",
+        "price": 4918,
+        "quantity": 889,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сушеные грибы",
+        "price": 5645,
+        "quantity": 557,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сушеные грибы",
+        "price": 3387,
+        "quantity": 318,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сушеные грибы",
+        "price": 325,
+        "quantity": 486,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сушеные грибы",
+        "price": 5248,
+        "quantity": 694,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Батат",
+        "price": 376,
+        "quantity": 47,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 2744,
+        "quantity": 704,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 3421,
+        "quantity": 445,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 1901,
+        "quantity": 300,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 3222,
+        "quantity": 242,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 7829,
+        "quantity": 452,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 4576,
+        "quantity": 635,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 5588,
+        "quantity": 19,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 2212,
+        "quantity": 165,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 6343,
+        "quantity": 334,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 4011,
+        "quantity": 910,
+        "category": "Овощи"
+    },
+    {
+        "name": "Батат",
+        "price": 6859,
+        "quantity": 32,
+        "category": "Овощи"
+    },
+    {
+        "name": "Сыр",
+        "price": 131,
+        "quantity": 302,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сыр",
+        "price": 137,
+        "quantity": 231,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сыр",
+        "price": 3398,
+        "quantity": 400,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сыр",
+        "price": 5564,
+        "quantity": 199,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сыр",
+        "price": 4049,
+        "quantity": 982,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Энергетический напиток",
+        "price": 826,
+        "quantity": 442,
+        "category": "Напитки"
+    },
+    {
+        "name": "Энергетический напиток",
+        "price": 2855,
+        "quantity": 104,
+        "category": "Напитки"
+    },
+    {
+        "name": "Энергетический напиток",
+        "price": 5593,
+        "quantity": 846,
+        "category": "Напитки"
+    },
+    {
+        "name": "Энергетический напиток",
+        "price": 278,
+        "quantity": 324,
+        "category": "Напитки"
+    },
+    {
+        "name": "Энергетический напиток",
+        "price": 9401,
+        "quantity": 728,
+        "category": "Напитки"
+    },
+    {
+        "name": "Энергетический напиток",
+        "price": 1001,
+        "quantity": 245,
+        "category": "Напитки"
+    },
+    {
+        "name": "Камут",
+        "price": 5284,
+        "quantity": 763,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 9662,
+        "quantity": 621,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 3692,
+        "quantity": 152,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 3052,
+        "quantity": 135,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 8797,
+        "quantity": 319,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 7563,
+        "quantity": 917,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 164,
+        "quantity": 704,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 2669,
+        "quantity": 627,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Камут",
+        "price": 2110,
+        "quantity": 218,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Южно-Сахалинская",
+        "price": 2370,
+        "quantity": 708,
+        "category": "Напитки"
+    },
+    {
+        "name": "Южно-Сахалинская",
+        "price": 833,
+        "quantity": 734,
+        "category": "Напитки"
+    },
+    {
+        "name": "Южно-Сахалинская",
+        "price": 3609,
+        "quantity": 259,
+        "category": "Напитки"
+    },
+    {
+        "name": "Южно-Сахалинская",
+        "price": 215,
+        "quantity": 172,
+        "category": "Напитки"
+    },
+    {
+        "name": "Южно-Сахалинская",
+        "price": 5545,
+        "quantity": 534,
+        "category": "Напитки"
+    },
+    {
+        "name": "Южно-Сахалинская",
+        "price": 7055,
+        "quantity": 663,
+        "category": "Напитки"
+    },
+    {
+        "name": "Южно-Сахалинская",
+        "price": 8201,
+        "quantity": 716,
+        "category": "Напитки"
+    },
+    {
+        "name": "Кокосовая вода",
+        "price": 9851,
+        "quantity": 184,
+        "category": "Напитки"
+    },
+    {
+        "name": "Кокосовая вода",
+        "price": 5926,
+        "quantity": 47,
+        "category": "Напитки"
+    },
+    {
+        "name": "Кокосовая вода",
+        "price": 573,
+        "quantity": 444,
+        "category": "Напитки"
+    },
+    {
+        "name": "Кокосовая вода",
+        "price": 5451,
+        "quantity": 735,
+        "category": "Напитки"
+    },
+    {
+        "name": "Кокосовая вода",
+        "price": 5166,
+        "quantity": 539,
+        "category": "Напитки"
+    },
+    {
+        "name": "Кокосовая вода",
+        "price": 8502,
+        "quantity": 114,
+        "category": "Напитки"
+    },
+    {
+        "name": "Кокосовая вода",
+        "price": 235,
+        "quantity": 95,
+        "category": "Напитки"
+    },
+    {
+        "name": "Индюшатина",
+        "price": 6127,
+        "quantity": 857,
+        "category": "Мясо"
+    },
+    {
+        "name": "Индюшатина",
+        "price": 4086,
+        "quantity": 904,
+        "category": "Мясо"
+    },
+    {
+        "name": "Индюшатина",
+        "price": 9943,
+        "quantity": 437,
+        "category": "Мясо"
+    },
+    {
+        "name": "Индюшатина",
+        "price": 8941,
+        "quantity": 736,
+        "category": "Мясо"
+    },
+    {
+        "name": "Индюшатина",
+        "price": 6494,
+        "quantity": 709,
+        "category": "Мясо"
+    },
+    {
+        "name": "Индюшатина",
+        "price": 7754,
+        "quantity": 809,
+        "category": "Мясо"
+    },
+    {
+        "name": "Индюшатина",
+        "price": 178,
+        "quantity": 801,
+        "category": "Мясо"
+    },
+    {
+        "name": "Индюшатина",
+        "price": 4287,
+        "quantity": 402,
+        "category": "Мясо"
+    },
+    {
+        "name": "Картофель",
+        "price": 1015,
+        "quantity": 369,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 7236,
+        "quantity": 150,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 8062,
+        "quantity": 551,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 1261,
+        "quantity": 124,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 7417,
+        "quantity": 293,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 3190,
+        "quantity": 76,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 1125,
+        "quantity": 331,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 2521,
+        "quantity": 995,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 3754,
+        "quantity": 842,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 2767,
+        "quantity": 839,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 9733,
+        "quantity": 800,
+        "category": "Овощи"
+    },
+    {
+        "name": "Картофель",
+        "price": 9908,
+        "quantity": 816,
+        "category": "Овощи"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 8336,
+        "quantity": 593,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 6548,
+        "quantity": 778,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 1665,
+        "quantity": 685,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 2100,
+        "quantity": 969,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 8345,
+        "quantity": 547,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 9314,
+        "quantity": 892,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 1112,
+        "quantity": 571,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 7367,
+        "quantity": 105,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 632,
+        "quantity": 480,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 8744,
+        "quantity": 431,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 5448,
+        "quantity": 638,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 7820,
+        "quantity": 357,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 1730,
+        "quantity": 195,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 8210,
+        "quantity": 874,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 9378,
+        "quantity": 949,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 1254,
+        "quantity": 582,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 6710,
+        "quantity": 756,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 3259,
+        "quantity": 179,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Каша из дробленной ржаной крупы",
+        "price": 3978,
+        "quantity": 946,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 6073,
+        "quantity": 886,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 1958,
+        "quantity": 624,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 9383,
+        "quantity": 562,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 4767,
+        "quantity": 290,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 928,
+        "quantity": 435,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 2482,
+        "quantity": 411,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 1377,
+        "quantity": 139,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 1019,
+        "quantity": 268,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 5052,
+        "quantity": 736,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 5762,
+        "quantity": 709,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 862,
+        "quantity": 942,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 6387,
+        "quantity": 619,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 6658,
+        "quantity": 840,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 285,
+        "quantity": 797,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 9851,
+        "quantity": 76,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 8271,
+        "quantity": 822,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 3746,
+        "quantity": 512,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 5149,
+        "quantity": 399,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 8309,
+        "quantity": 656,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "price": 1418,
+        "quantity": 751,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Каймак",
+        "price": 4971,
+        "quantity": 744,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 277,
+        "quantity": 286,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 6917,
+        "quantity": 20,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 1213,
+        "quantity": 427,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 4420,
+        "quantity": 635,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 6739,
+        "quantity": 439,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 4005,
+        "quantity": 258,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 3249,
+        "quantity": 679,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 6927,
+        "quantity": 657,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 7437,
+        "quantity": 733,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 4655,
+        "quantity": 696,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 4261,
+        "quantity": 905,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 1343,
+        "quantity": 362,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 5789,
+        "quantity": 63,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 7424,
+        "quantity": 108,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Каймак",
+        "price": 8605,
+        "quantity": 400,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пахта",
+        "price": 4423,
+        "quantity": 696,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пахта",
+        "price": 6342,
+        "quantity": 757,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пахта",
+        "price": 2740,
+        "quantity": 812,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пахта",
+        "price": 2913,
+        "quantity": 489,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Пахта",
+        "price": 4398,
+        "quantity": 786,
+        "category": "Молочные продукты"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 8568,
+        "quantity": 358,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 3981,
+        "quantity": 33,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 1828,
+        "quantity": 314,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 5499,
+        "quantity": 969,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 8862,
+        "quantity": 430,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 4378,
+        "quantity": 159,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 2941,
+        "quantity": 677,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 9219,
+        "quantity": 853,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 7827,
+        "quantity": 367,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 3546,
+        "quantity": 724,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Сухофрукты (изюм, курага, чернослив)",
+        "price": 703,
+        "quantity": 482,
+        "category": "Бакалея"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 8337,
+        "quantity": 432,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 6742,
+        "quantity": 929,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 7636,
+        "quantity": 130,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 3278,
+        "quantity": 384,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 7124,
+        "quantity": 1,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 8808,
+        "quantity": 880,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 3136,
+        "quantity": 14,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 9752,
+        "quantity": 810,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 7416,
+        "quantity": 838,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 9505,
+        "quantity": 633,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 9973,
+        "quantity": 714,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 2596,
+        "quantity": 556,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 2063,
+        "quantity": 927,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 845,
+        "quantity": 279,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 6067,
+        "quantity": 728,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 307,
+        "quantity": 465,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 6003,
+        "quantity": 1,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Кастрюли",
+        "price": 9350,
+        "quantity": 671,
+        "category": "Товары для дома"
+    },
+    {
+        "name": "Патиссон",
+        "price": 697,
+        "quantity": 675,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 7033,
+        "quantity": 166,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 317,
+        "quantity": 386,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 1445,
+        "quantity": 815,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 1523,
+        "quantity": 674,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 7185,
+        "quantity": 741,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 1885,
+        "quantity": 525,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 3638,
+        "quantity": 708,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 2296,
+        "quantity": 179,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 7291,
+        "quantity": 478,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 8308,
+        "quantity": 842,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 8777,
+        "quantity": 42,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 1503,
+        "quantity": 370,
+        "category": "Овощи"
+    },
+    {
+        "name": "Патиссон",
+        "price": 6019,
+        "quantity": 470,
+        "category": "Овощи"
+    },
+    {
+        "name": "Хинкали",
+        "price": 1638,
+        "quantity": 38,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 1008,
+        "quantity": 997,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 1976,
+        "quantity": 975,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 136,
+        "quantity": 638,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 5210,
+        "quantity": 840,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 8057,
+        "quantity": 60,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 1629,
+        "quantity": 525,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 4254,
+        "quantity": 564,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 8555,
+        "quantity": 160,
+        "category": "Мясо"
+    },
+    {
+        "name": "Хинкали",
+        "price": 1005,
+        "quantity": 351,
+        "category": "Мясо"
+    }
+]
