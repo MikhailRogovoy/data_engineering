@@ -1,0 +1,272 @@
+[
+    {
+        "id": 846,
+        "artist": "Justin Timberlake",
+        "song": "Mirrors",
+        "duration_ms": 484146,
+        "year": "2013",
+        "tempo": 76.899,
+        "genre": "pop"
+    },
+    {
+        "id": 1473,
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "duration_ms": 417920,
+        "year": "2018",
+        "tempo": 96.507,
+        "genre": "latin"
+    },
+    {
+        "id": 1347,
+        "artist": "Lil' Kim",
+        "song": "Magic Stick",
+        "duration_ms": 359973,
+        "year": "2019",
+        "tempo": 92.98,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1026,
+        "artist": "Daft Punk",
+        "song": "Lose Yourself to Dance (feat. Pharrell Williams)",
+        "duration_ms": 353893,
+        "year": "2013",
+        "tempo": 100.163,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 922,
+        "artist": "Kendrick Lamar",
+        "song": "m.A.A.d city",
+        "duration_ms": 350120,
+        "year": "2012",
+        "tempo": 91.048,
+        "genre": "hip hop"
+    },
+    {
+        "id": 522,
+        "artist": "Migos",
+        "song": "Bad and Boujee (feat. Lil Uzi Vert)",
+        "duration_ms": 343150,
+        "year": "2017",
+        "tempo": 127.079,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1434,
+        "artist": "JAY-Z",
+        "song": "Holy Grail",
+        "duration_ms": 338413,
+        "year": "2013",
+        "tempo": 145.082,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1124,
+        "artist": "Rae Sremmurd",
+        "song": "Powerglide (feat. Juicy J) - From SR3MM",
+        "duration_ms": 332300,
+        "year": "2018",
+        "tempo": 173.948,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1076,
+        "artist": "Kanye West",
+        "song": "Mercy",
+        "duration_ms": 329320,
+        "year": "2012",
+        "tempo": 139.993,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1025,
+        "artist": "Justin Timberlake",
+        "song": "Suit & Tie (feat. Jay-Z)",
+        "duration_ms": 326280,
+        "year": "2013",
+        "tempo": 101.985,
+        "genre": "pop"
+    },
+    {
+        "id": 1519,
+        "artist": "Beyoncé",
+        "song": "Drunk in Love (feat. Jay-Z)",
+        "duration_ms": 323480,
+        "year": "2014",
+        "tempo": 140.03,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1629,
+        "artist": "Lady Gaga",
+        "song": "The Edge Of Glory",
+        "duration_ms": 320546,
+        "year": "2011",
+        "tempo": 127.952,
+        "genre": "pop"
+    },
+    {
+        "id": 176,
+        "artist": "Kendrick Lamar",
+        "song": "Swimming Pools (Drank) - Extended Version",
+        "duration_ms": 313786,
+        "year": "2012",
+        "tempo": 74.132,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1701,
+        "artist": "Milky Chance",
+        "song": "Stolen Dance",
+        "duration_ms": 313684,
+        "year": "2014",
+        "tempo": 114.016,
+        "genre": "set()"
+    },
+    {
+        "id": 656,
+        "artist": "Future",
+        "song": "Low Life (feat. The Weeknd)",
+        "duration_ms": 313546,
+        "year": "2016",
+        "tempo": 143.961,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 851,
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "duration_ms": 312820,
+        "year": "2018",
+        "tempo": 155.008,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 1746,
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "duration_ms": 312820,
+        "year": "2018",
+        "tempo": 155.008,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 1737,
+        "artist": "Migos",
+        "song": "Slippery (feat. Gucci Mane)",
+        "duration_ms": 304041,
+        "year": "2017",
+        "tempo": 141.967,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 463,
+        "artist": "Bad Meets Evil",
+        "song": "Lighters",
+        "duration_ms": 303813,
+        "year": "2011",
+        "tempo": 90.268,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 34,
+        "artist": "Migos",
+        "song": "MotorSport",
+        "duration_ms": 303076,
+        "year": "2018",
+        "tempo": 137.996,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1622,
+        "artist": "Hugh Jackman",
+        "song": "The Greatest Show",
+        "duration_ms": 302146,
+        "year": "2017",
+        "tempo": 157.92,
+        "genre": "easy listening"
+    },
+    {
+        "id": 1920,
+        "artist": "Anuel AA",
+        "song": "China",
+        "duration_ms": 301714,
+        "year": "2019",
+        "tempo": 105.027,
+        "genre": "latin"
+    },
+    {
+        "id": 1341,
+        "artist": "Ed Sheeran",
+        "song": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
+        "duration_ms": 300840,
+        "year": "2013",
+        "tempo": 152.037,
+        "genre": "pop"
+    },
+    {
+        "id": 367,
+        "artist": "MGMT",
+        "song": "Little Dark Age",
+        "duration_ms": 299960,
+        "year": "2018",
+        "tempo": 97.512,
+        "genre": "rock"
+    },
+    {
+        "id": 1077,
+        "artist": "ScHoolboy Q",
+        "song": "Collard Greens",
+        "duration_ms": 299960,
+        "year": "2014",
+        "tempo": 153.972,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 117,
+        "artist": "Drake",
+        "song": "Passionfruit",
+        "duration_ms": 298940,
+        "year": "2017",
+        "tempo": 111.98,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1990,
+        "artist": "DJ Khaled",
+        "song": "I'm On One",
+        "duration_ms": 296146,
+        "year": "2011",
+        "tempo": 149.33,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 183,
+        "artist": "Adele",
+        "song": "Hello",
+        "duration_ms": 295502,
+        "year": "2015",
+        "tempo": 157.98,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 521,
+        "artist": "Nelly",
+        "song": "Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster",
+        "duration_ms": 293666,
+        "year": "2016",
+        "tempo": 87.025,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 727,
+        "artist": "Rudimental",
+        "song": "Waiting All Night (feat. Ella Eyre)",
+        "duration_ms": 292586,
+        "year": "2013",
+        "tempo": 174.983,
+        "genre": "pop, Dance/Electronic"
+    }
+]

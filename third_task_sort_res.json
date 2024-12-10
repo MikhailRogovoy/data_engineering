@@ -1,0 +1,272 @@
+[
+    {
+        "id": 662,
+        "artist": "Missy Elliott",
+        "song": "Hot Boyz",
+        "duration_ms": 215466,
+        "year": "1998",
+        "tempo": 81.125,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1,
+        "artist": "Creed",
+        "song": "Higher",
+        "duration_ms": 316733,
+        "year": "1999",
+        "tempo": 155.827,
+        "genre": "pop, rock, metal"
+    },
+    {
+        "id": 38,
+        "artist": "Faith Hill",
+        "song": "Breathe",
+        "duration_ms": 250546,
+        "year": "1999",
+        "tempo": 136.859,
+        "genre": "pop, country"
+    },
+    {
+        "id": 111,
+        "artist": "Creed",
+        "song": "With Arms Wide Open",
+        "duration_ms": 274800,
+        "year": "1999",
+        "tempo": 138.852,
+        "genre": "pop, rock, metal"
+    },
+    {
+        "id": 177,
+        "artist": "Mariah Carey",
+        "song": "Thank God I Found You (feat. Joe & 98°)",
+        "duration_ms": 257360,
+        "year": "1999",
+        "tempo": 129.297,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 279,
+        "artist": "Red Hot Chili Peppers",
+        "song": "Otherside",
+        "duration_ms": 255373,
+        "year": "1999",
+        "tempo": 123.229,
+        "genre": "rock"
+    },
+    {
+        "id": 291,
+        "artist": "Donell Jones",
+        "song": "Where I Wanna Be",
+        "duration_ms": 253626,
+        "year": "1999",
+        "tempo": 102.053,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 359,
+        "artist": "Destiny's Child",
+        "song": "Say My Name",
+        "duration_ms": 271333,
+        "year": "1999",
+        "tempo": 138.009,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 363,
+        "artist": "Savage Garden",
+        "song": "Crash and Burn",
+        "duration_ms": 281466,
+        "year": "1999",
+        "tempo": 102.03,
+        "genre": "pop"
+    },
+    {
+        "id": 438,
+        "artist": "Gigi D'Agostino",
+        "song": "The Riddle",
+        "duration_ms": 285426,
+        "year": "1999",
+        "tempo": 127.002,
+        "genre": "pop"
+    },
+    {
+        "id": 558,
+        "artist": "Madison Avenue",
+        "song": "Don't Call Me Baby",
+        "duration_ms": 228140,
+        "year": "1999",
+        "tempo": 124.999,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 559,
+        "artist": "Melanie C",
+        "song": "I Turn To You",
+        "duration_ms": 352173,
+        "year": "1999",
+        "tempo": 135.205,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 664,
+        "artist": "Dr. Dre",
+        "song": "The Next Episode",
+        "duration_ms": 161506,
+        "year": "1999",
+        "tempo": 95.295,
+        "genre": "hip hop"
+    },
+    {
+        "id": 703,
+        "artist": "Sisqo",
+        "song": "Thong Song",
+        "duration_ms": 253733,
+        "year": "1999",
+        "tempo": 121.549,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 722,
+        "artist": "Tom Jones",
+        "song": "Sexbomb",
+        "duration_ms": 211893,
+        "year": "1999",
+        "tempo": 122.979,
+        "genre": "rock, Folk/Acoustic, easy listening"
+    },
+    {
+        "id": 814,
+        "artist": "Eiffel 65",
+        "song": "Move Your Body - Gabry Ponte Original Radio Edit",
+        "duration_ms": 268863,
+        "year": "1999",
+        "tempo": 129.962,
+        "genre": "pop"
+    },
+    {
+        "id": 826,
+        "artist": "Dido",
+        "song": "Thank You",
+        "duration_ms": 218360,
+        "year": "1999",
+        "tempo": 79.984,
+        "genre": "pop"
+    },
+    {
+        "id": 844,
+        "artist": "Santana",
+        "song": "Maria Maria (feat. The Product G&B)",
+        "duration_ms": 261973,
+        "year": "1999",
+        "tempo": 97.911,
+        "genre": "rock, blues, latin"
+    },
+    {
+        "id": 861,
+        "artist": "Enrique Iglesias",
+        "song": "Be With You",
+        "duration_ms": 219360,
+        "year": "1999",
+        "tempo": 121.996,
+        "genre": "pop, latin"
+    },
+    {
+        "id": 877,
+        "artist": "Céline Dion",
+        "song": "That's the Way It Is",
+        "duration_ms": 241373,
+        "year": "1999",
+        "tempo": 93.04,
+        "genre": "pop"
+    },
+    {
+        "id": 890,
+        "artist": "Britney Spears",
+        "song": "Born to Make You Happy",
+        "duration_ms": 243533,
+        "year": "1999",
+        "tempo": 84.11,
+        "genre": "pop"
+    },
+    {
+        "id": 990,
+        "artist": "Sting",
+        "song": "Desert Rose",
+        "duration_ms": 285960,
+        "year": "1999",
+        "tempo": 111.989,
+        "genre": "rock, pop"
+    },
+    {
+        "id": 995,
+        "artist": "Backstreet Boys",
+        "song": "Show Me the Meaning of Being Lonely",
+        "duration_ms": 234960,
+        "year": "1999",
+        "tempo": 167.998,
+        "genre": "pop"
+    },
+    {
+        "id": 1041,
+        "artist": "JAY-Z",
+        "song": "Big Pimpin'",
+        "duration_ms": 283066,
+        "year": "1999",
+        "tempo": 138.083,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1063,
+        "artist": "Sisqo",
+        "song": "Incomplete",
+        "duration_ms": 274226,
+        "year": "1999",
+        "tempo": 119.311,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1068,
+        "artist": "Montell Jordan",
+        "song": "Get It On Tonite",
+        "duration_ms": 276266,
+        "year": "1999",
+        "tempo": 99.008,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1130,
+        "artist": "blink-182",
+        "song": "All The Small Things",
+        "duration_ms": 167066,
+        "year": "1999",
+        "tempo": 148.726,
+        "genre": "rock, pop"
+    },
+    {
+        "id": 1162,
+        "artist": "Anastacia",
+        "song": "Sick and Tired",
+        "duration_ms": 212266,
+        "year": "1999",
+        "tempo": 99.848,
+        "genre": "pop"
+    },
+    {
+        "id": 1397,
+        "artist": "Christina Aguilera",
+        "song": "I Turn to You",
+        "duration_ms": 273706,
+        "year": "1999",
+        "tempo": 127.177,
+        "genre": "pop"
+    },
+    {
+        "id": 1522,
+        "artist": "Christina Aguilera",
+        "song": "Come on over Baby (All I Want Is You) - Radio Version",
+        "duration_ms": 203333,
+        "year": "1999",
+        "tempo": 118.903,
+        "genre": "pop"
+    }
+]
