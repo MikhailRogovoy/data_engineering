@@ -1,0 +1,112 @@
+[
+    {
+        "id": 134,
+        "name": "marvelous facial cleanser",
+        "price": 66.52,
+        "quantity": 1323,
+        "category": "cosmetics",
+        "fromCity": "Льейда",
+        "isAvailable": 0,
+        "views": 319,
+        "version": 13
+    },
+    {
+        "id": 4,
+        "name": "trendy boysenberry",
+        "price": 47.95,
+        "quantity": 894,
+        "category": "fruit",
+        "fromCity": "Авилес",
+        "isAvailable": 1,
+        "views": 63060,
+        "version": 11
+    },
+    {
+        "id": 75,
+        "name": "delightful apple",
+        "price": 59.85,
+        "quantity": 1129,
+        "category": "fruit",
+        "fromCity": "Подгорица",
+        "isAvailable": 0,
+        "views": 80294,
+        "version": 10
+    },
+    {
+        "id": 123,
+        "name": "exquisite pedicure set",
+        "price": 19.99,
+        "quantity": 747,
+        "category": "cosmetics",
+        "fromCity": "Вильявисиоса",
+        "isAvailable": 1,
+        "views": 13511,
+        "version": 10
+    },
+    {
+        "id": 155,
+        "name": "exquisite electrical",
+        "price": 67.38,
+        "quantity": 1034,
+        "category": "tools",
+        "fromCity": "Трухильо",
+        "isAvailable": 0,
+        "views": 77798,
+        "version": 10
+    },
+    {
+        "id": 145,
+        "name": "magnificent trim",
+        "price": 58.59,
+        "quantity": 1187,
+        "category": "tools",
+        "fromCity": "Сория",
+        "isAvailable": 0,
+        "views": 42512,
+        "version": 8
+    },
+    {
+        "id": 151,
+        "name": "attractive moisturizer",
+        "price": 174.61,
+        "quantity": 1166,
+        "category": "cosmetics",
+        "fromCity": "Вильявисиоса",
+        "isAvailable": 0,
+        "views": 71888,
+        "version": 8
+    },
+    {
+        "id": 74,
+        "name": "nice toner",
+        "price": 101.5,
+        "quantity": 934,
+        "category": "cosmetics",
+        "fromCity": "Бильбао",
+        "isAvailable": 1,
+        "views": 76006,
+        "version": 7
+    },
+    {
+        "id": 81,
+        "name": "elegant nail file",
+        "price": 105.75,
+        "quantity": 859,
+        "category": "cosmetics",
+        "fromCity": "Камбадос",
+        "isAvailable": 0,
+        "views": 89095,
+        "version": 7
+    },
+    {
+        "id": 35,
+        "name": "marvelous manicure set",
+        "price": 71.18,
+        "quantity": 1080,
+        "category": "cosmetics",
+        "fromCity": "Бургос",
+        "isAvailable": 1,
+        "views": 80559,
+        "version": 6
+    }
+]
