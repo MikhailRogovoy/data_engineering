@@ -1,0 +1,758 @@
+[
+    {
+        "car_id": 1,
+        "Car_Name": "sx4",
+        "Year": 2013,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 2,
+        "Car_Name": "ciaz",
+        "Year": 2017,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 5,
+        "Car_Name": "vitara brezza",
+        "Year": 2018,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 6,
+        "Car_Name": "ciaz",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 7,
+        "Car_Name": "s cross",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 8,
+        "Car_Name": "ciaz",
+        "Year": 2016,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 9,
+        "Car_Name": "ciaz",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 11,
+        "Car_Name": "ciaz",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 12,
+        "Car_Name": "ciaz",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 15,
+        "Car_Name": "ertiga",
+        "Year": 2016,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 16,
+        "Car_Name": "ertiga",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 17,
+        "Car_Name": "ertiga",
+        "Year": 2016,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 22,
+        "Car_Name": "sx4",
+        "Year": 2011,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 29,
+        "Car_Name": "ciaz",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 33,
+        "Car_Name": "ertiga",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 34,
+        "Car_Name": "dzire",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 43,
+        "Car_Name": "dzire",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 45,
+        "Car_Name": "ciaz",
+        "Year": 2014,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 49,
+        "Car_Name": "ciaz",
+        "Year": 2017,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 50,
+        "Car_Name": "fortuner",
+        "Year": 2012,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 51,
+        "Car_Name": "fortuner",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 52,
+        "Car_Name": "innova",
+        "Year": 2017,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 53,
+        "Car_Name": "fortuner",
+        "Year": 2013,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 54,
+        "Car_Name": "innova",
+        "Year": 2005,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 55,
+        "Car_Name": "corolla altis",
+        "Year": 2009,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 57,
+        "Car_Name": "corolla altis",
+        "Year": 2010,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 59,
+        "Car_Name": "fortuner",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 60,
+        "Car_Name": "corolla altis",
+        "Year": 2013,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 62,
+        "Car_Name": "fortuner",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 63,
+        "Car_Name": "fortuner",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 64,
+        "Car_Name": "fortuner",
+        "Year": 2017,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 66,
+        "Car_Name": "innova",
+        "Year": 2017,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 67,
+        "Car_Name": "fortuner",
+        "Year": 2010,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 68,
+        "Car_Name": "corolla altis",
+        "Year": 2011,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 69,
+        "Car_Name": "corolla altis",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 71,
+        "Car_Name": "corolla altis",
+        "Year": 2011,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 72,
+        "Car_Name": "corolla altis",
+        "Year": 2013,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 74,
+        "Car_Name": "etios cross",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 76,
+        "Car_Name": "corolla altis",
+        "Year": 2013,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 77,
+        "Car_Name": "corolla",
+        "Year": 2004,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 78,
+        "Car_Name": "corolla altis",
+        "Year": 2010,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 79,
+        "Car_Name": "fortuner",
+        "Year": 2012,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 80,
+        "Car_Name": "corolla altis",
+        "Year": 2016,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 82,
+        "Car_Name": "innova",
+        "Year": 2017,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 83,
+        "Car_Name": "innova",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 84,
+        "Car_Name": "innova",
+        "Year": 2005,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 85,
+        "Car_Name": "camry",
+        "Year": 2006,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 86,
+        "Car_Name": "land cruiser",
+        "Year": 2010,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 87,
+        "Car_Name": "corolla altis",
+        "Year": 2012,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 90,
+        "Car_Name": "corolla altis",
+        "Year": 2009,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 91,
+        "Car_Name": "innova",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 92,
+        "Car_Name": "innova",
+        "Year": 2005,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 93,
+        "Car_Name": "fortuner",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 94,
+        "Car_Name": "corolla altis",
+        "Year": 2008,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 95,
+        "Car_Name": "corolla altis",
+        "Year": 2012,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 96,
+        "Car_Name": "innova",
+        "Year": 2016,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 97,
+        "Car_Name": "corolla altis",
+        "Year": 2017,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 98,
+        "Car_Name": "corolla altis",
+        "Year": 2013,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 99,
+        "Car_Name": "fortuner",
+        "Year": 2010,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 208,
+        "Car_Name": "i20",
+        "Year": 2017,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 211,
+        "Car_Name": "elantra",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 212,
+        "Car_Name": "creta",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 215,
+        "Car_Name": "verna",
+        "Year": 2012,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 218,
+        "Car_Name": "verna",
+        "Year": 2014,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 219,
+        "Car_Name": "verna",
+        "Year": 2012,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 223,
+        "Car_Name": "verna",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 224,
+        "Car_Name": "verna",
+        "Year": 2013,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 228,
+        "Car_Name": "verna",
+        "Year": 2012,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 230,
+        "Car_Name": "verna",
+        "Year": 2013,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 231,
+        "Car_Name": "verna",
+        "Year": 2017,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 232,
+        "Car_Name": "elantra",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 235,
+        "Car_Name": "verna",
+        "Year": 2017,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 237,
+        "Car_Name": "creta",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 238,
+        "Car_Name": "verna",
+        "Year": 2013,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 240,
+        "Car_Name": "verna",
+        "Year": 2012,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 244,
+        "Car_Name": "verna",
+        "Year": 2013,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 245,
+        "Car_Name": "verna",
+        "Year": 2012,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 247,
+        "Car_Name": "verna",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 250,
+        "Car_Name": "creta",
+        "Year": 2016,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 251,
+        "Car_Name": "city",
+        "Year": 2013,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 253,
+        "Car_Name": "city",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 254,
+        "Car_Name": "city",
+        "Year": 2013,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 256,
+        "Car_Name": "city",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 257,
+        "Car_Name": "city",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 258,
+        "Car_Name": "city",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 260,
+        "Car_Name": "city",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 265,
+        "Car_Name": "jazz",
+        "Year": 2017,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 267,
+        "Car_Name": "city",
+        "Year": 2016,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 269,
+        "Car_Name": "city",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 270,
+        "Car_Name": "city",
+        "Year": 2011,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 271,
+        "Car_Name": "city",
+        "Year": 2009,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 272,
+        "Car_Name": "city",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 275,
+        "Car_Name": "city",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 276,
+        "Car_Name": "city",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 277,
+        "Car_Name": "city",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 278,
+        "Car_Name": "jazz",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 279,
+        "Car_Name": "city",
+        "Year": 2014,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 282,
+        "Car_Name": "city",
+        "Year": 2014,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 283,
+        "Car_Name": "city",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 285,
+        "Car_Name": "jazz",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic"
+    },
+    {
+        "car_id": 288,
+        "Car_Name": "city",
+        "Year": 2015,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 289,
+        "Car_Name": "city",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 292,
+        "Car_Name": "jazz",
+        "Year": 2016,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 293,
+        "Car_Name": "city",
+        "Year": 2010,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 295,
+        "Car_Name": "city",
+        "Year": 2015,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 296,
+        "Car_Name": "city",
+        "Year": 2016,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 298,
+        "Car_Name": "city",
+        "Year": 2009,
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual"
+    },
+    {
+        "car_id": 299,
+        "Car_Name": "city",
+        "Year": 2017,
+        "Fuel_Type": "Diesel",
+        "Transmission": "Manual"
+    }
+]

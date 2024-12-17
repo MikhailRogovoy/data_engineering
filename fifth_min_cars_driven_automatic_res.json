@@ -1,0 +1,117 @@
+[
+    {
+        "Car_Name": "Activa 3g",
+        "min_Kms_Driven": 500,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "Activa 4g",
+        "min_Kms_Driven": 1300,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "Honda Activa 125",
+        "min_Kms_Driven": 24000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "Honda Activa 4G",
+        "min_Kms_Driven": 4000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "Suzuki Access 125",
+        "min_Kms_Driven": 1900,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "TVS Jupyter",
+        "min_Kms_Driven": 19000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "TVS Wego",
+        "min_Kms_Driven": 22000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "amaze",
+        "min_Kms_Driven": 44000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "baleno",
+        "min_Kms_Driven": 24524,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "brio",
+        "min_Kms_Driven": 31427,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "camry",
+        "min_Kms_Driven": 142000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "ciaz",
+        "min_Kms_Driven": 15000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "city",
+        "min_Kms_Driven": 30753,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "corolla",
+        "min_Kms_Driven": 135154,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "corolla altis",
+        "min_Kms_Driven": 70000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "elantra",
+        "min_Kms_Driven": 12900,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "fortuner",
+        "min_Kms_Driven": 6000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "grand i10",
+        "min_Kms_Driven": 34797,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "i20",
+        "min_Kms_Driven": 32000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "innova",
+        "min_Kms_Driven": 11000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "jazz",
+        "min_Kms_Driven": 15059,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "sx4",
+        "min_Kms_Driven": 50000,
+        "Transmission": "Automatic"
+    },
+    {
+        "Car_Name": "verna",
+        "min_Kms_Driven": 36198,
+        "Transmission": "Automatic"
+    }
+]

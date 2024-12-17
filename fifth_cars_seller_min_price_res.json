@@ -1,0 +1,332 @@
+[
+    {
+        "Car_Name": "800",
+        "min_selling_price": 0.35,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Activa 3g",
+        "min_selling_price": 0.17,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Activa 4g",
+        "min_selling_price": 0.4,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj  ct 100",
+        "min_selling_price": 0.18,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Avenger 150",
+        "min_selling_price": 0.75,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Avenger 150 street",
+        "min_selling_price": 0.6,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Avenger 220",
+        "min_selling_price": 0.72,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Avenger 220 dtsi",
+        "min_selling_price": 0.45,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Avenger Street 220",
+        "min_selling_price": 0.45,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Discover 100",
+        "min_selling_price": 0.27,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Discover 125",
+        "min_selling_price": 0.15,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Dominar 400",
+        "min_selling_price": 1.45,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Pulsar  NS 200",
+        "min_selling_price": 0.6,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Pulsar 135 LS",
+        "min_selling_price": 0.4,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Pulsar 150",
+        "min_selling_price": 0.1,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Pulsar 220 F",
+        "min_selling_price": 0.51,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Pulsar NS 200",
+        "min_selling_price": 0.45,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Bajaj Pulsar RS200",
+        "min_selling_price": 1.05,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero  CBZ Xtreme",
+        "min_selling_price": 0.2,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero  Ignitor Disc",
+        "min_selling_price": 0.2,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Extreme",
+        "min_selling_price": 0.55,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Glamour",
+        "min_selling_price": 0.25,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Honda CBZ extreme",
+        "min_selling_price": 0.38,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Honda Passion Pro",
+        "min_selling_price": 0.3,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Hunk",
+        "min_selling_price": 0.2,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Passion Pro",
+        "min_selling_price": 0.4,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Passion X pro",
+        "min_selling_price": 0.5,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Splender Plus",
+        "min_selling_price": 0.3,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Splender iSmart",
+        "min_selling_price": 0.4,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hero Super Splendor",
+        "min_selling_price": 0.2,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda Activa 125",
+        "min_selling_price": 0.35,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda Activa 4G",
+        "min_selling_price": 0.45,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda CB Hornet 160R",
+        "min_selling_price": 0.6,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda CB Shine",
+        "min_selling_price": 0.12,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda CB Trigger",
+        "min_selling_price": 0.42,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda CB Unicorn",
+        "min_selling_price": 0.38,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda CB twister",
+        "min_selling_price": 0.16,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda CBR 150",
+        "min_selling_price": 0.6,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda Dream Yuga ",
+        "min_selling_price": 0.48,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Honda Karizma",
+        "min_selling_price": 0.31,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Hyosung GT250R",
+        "min_selling_price": 1.35,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "KTM 390 Duke ",
+        "min_selling_price": 1.15,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "KTM RC200",
+        "min_selling_price": 1.2,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "KTM RC390",
+        "min_selling_price": 1.35,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Mahindra Mojo XT300",
+        "min_selling_price": 1.15,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Royal Enfield Bullet 350",
+        "min_selling_price": 1.05,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Royal Enfield Classic 350",
+        "min_selling_price": 1.0,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Royal Enfield Classic 500",
+        "min_selling_price": 0.9,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Royal Enfield Thunder 350",
+        "min_selling_price": 1.05,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Royal Enfield Thunder 500",
+        "min_selling_price": 1.05,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Suzuki Access 125",
+        "min_selling_price": 0.25,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "TVS Apache RTR 160",
+        "min_selling_price": 0.42,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "TVS Apache RTR 180",
+        "min_selling_price": 0.45,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "TVS Jupyter",
+        "min_selling_price": 0.35,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "TVS Sport ",
+        "min_selling_price": 0.48,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "TVS Wego",
+        "min_selling_price": 0.25,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "UM Renegade Mojave",
+        "min_selling_price": 1.7,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Yamaha FZ  v 2.0",
+        "min_selling_price": 0.6,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Yamaha FZ 16",
+        "min_selling_price": 0.75,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Yamaha FZ S ",
+        "min_selling_price": 0.4,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Yamaha FZ S V 2.0",
+        "min_selling_price": 0.48,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "Yamaha Fazer ",
+        "min_selling_price": 0.5,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "camry",
+        "min_selling_price": 2.5,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "fortuner",
+        "min_selling_price": 16.0,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "innova",
+        "min_selling_price": 2.75,
+        "seller": "Individual"
+    },
+    {
+        "Car_Name": "swift",
+        "min_selling_price": 6.0,
+        "seller": "Individual"
+    }
+]

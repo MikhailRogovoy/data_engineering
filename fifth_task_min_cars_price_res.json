@@ -1,0 +1,394 @@
+[
+    {
+        "Car_name": "800",
+        "min_selling_price": 0.35
+    },
+    {
+        "Car_name": "Activa 3g",
+        "min_selling_price": 0.17
+    },
+    {
+        "Car_name": "Activa 4g",
+        "min_selling_price": 0.4
+    },
+    {
+        "Car_name": "Bajaj  ct 100",
+        "min_selling_price": 0.18
+    },
+    {
+        "Car_name": "Bajaj Avenger 150",
+        "min_selling_price": 0.75
+    },
+    {
+        "Car_name": "Bajaj Avenger 150 street",
+        "min_selling_price": 0.6
+    },
+    {
+        "Car_name": "Bajaj Avenger 220",
+        "min_selling_price": 0.72
+    },
+    {
+        "Car_name": "Bajaj Avenger 220 dtsi",
+        "min_selling_price": 0.45
+    },
+    {
+        "Car_name": "Bajaj Avenger Street 220",
+        "min_selling_price": 0.45
+    },
+    {
+        "Car_name": "Bajaj Discover 100",
+        "min_selling_price": 0.27
+    },
+    {
+        "Car_name": "Bajaj Discover 125",
+        "min_selling_price": 0.15
+    },
+    {
+        "Car_name": "Bajaj Dominar 400",
+        "min_selling_price": 1.45
+    },
+    {
+        "Car_name": "Bajaj Pulsar  NS 200",
+        "min_selling_price": 0.6
+    },
+    {
+        "Car_name": "Bajaj Pulsar 135 LS",
+        "min_selling_price": 0.4
+    },
+    {
+        "Car_name": "Bajaj Pulsar 150",
+        "min_selling_price": 0.1
+    },
+    {
+        "Car_name": "Bajaj Pulsar 220 F",
+        "min_selling_price": 0.51
+    },
+    {
+        "Car_name": "Bajaj Pulsar NS 200",
+        "min_selling_price": 0.45
+    },
+    {
+        "Car_name": "Bajaj Pulsar RS200",
+        "min_selling_price": 1.05
+    },
+    {
+        "Car_name": "Hero  CBZ Xtreme",
+        "min_selling_price": 0.2
+    },
+    {
+        "Car_name": "Hero  Ignitor Disc",
+        "min_selling_price": 0.2
+    },
+    {
+        "Car_name": "Hero Extreme",
+        "min_selling_price": 0.55
+    },
+    {
+        "Car_name": "Hero Glamour",
+        "min_selling_price": 0.25
+    },
+    {
+        "Car_name": "Hero Honda CBZ extreme",
+        "min_selling_price": 0.38
+    },
+    {
+        "Car_name": "Hero Honda Passion Pro",
+        "min_selling_price": 0.3
+    },
+    {
+        "Car_name": "Hero Hunk",
+        "min_selling_price": 0.2
+    },
+    {
+        "Car_name": "Hero Passion Pro",
+        "min_selling_price": 0.4
+    },
+    {
+        "Car_name": "Hero Passion X pro",
+        "min_selling_price": 0.5
+    },
+    {
+        "Car_name": "Hero Splender Plus",
+        "min_selling_price": 0.3
+    },
+    {
+        "Car_name": "Hero Splender iSmart",
+        "min_selling_price": 0.4
+    },
+    {
+        "Car_name": "Hero Super Splendor",
+        "min_selling_price": 0.2
+    },
+    {
+        "Car_name": "Honda Activa 125",
+        "min_selling_price": 0.35
+    },
+    {
+        "Car_name": "Honda Activa 4G",
+        "min_selling_price": 0.45
+    },
+    {
+        "Car_name": "Honda CB Hornet 160R",
+        "min_selling_price": 0.6
+    },
+    {
+        "Car_name": "Honda CB Shine",
+        "min_selling_price": 0.12
+    },
+    {
+        "Car_name": "Honda CB Trigger",
+        "min_selling_price": 0.42
+    },
+    {
+        "Car_name": "Honda CB Unicorn",
+        "min_selling_price": 0.38
+    },
+    {
+        "Car_name": "Honda CB twister",
+        "min_selling_price": 0.16
+    },
+    {
+        "Car_name": "Honda CBR 150",
+        "min_selling_price": 0.6
+    },
+    {
+        "Car_name": "Honda Dream Yuga ",
+        "min_selling_price": 0.48
+    },
+    {
+        "Car_name": "Honda Karizma",
+        "min_selling_price": 0.31
+    },
+    {
+        "Car_name": "Hyosung GT250R",
+        "min_selling_price": 1.35
+    },
+    {
+        "Car_name": "KTM 390 Duke ",
+        "min_selling_price": 1.15
+    },
+    {
+        "Car_name": "KTM RC200",
+        "min_selling_price": 1.2
+    },
+    {
+        "Car_name": "KTM RC390",
+        "min_selling_price": 1.35
+    },
+    {
+        "Car_name": "Mahindra Mojo XT300",
+        "min_selling_price": 1.15
+    },
+    {
+        "Car_name": "Royal Enfield Bullet 350",
+        "min_selling_price": 1.05
+    },
+    {
+        "Car_name": "Royal Enfield Classic 350",
+        "min_selling_price": 1.0
+    },
+    {
+        "Car_name": "Royal Enfield Classic 500",
+        "min_selling_price": 0.9
+    },
+    {
+        "Car_name": "Royal Enfield Thunder 350",
+        "min_selling_price": 1.05
+    },
+    {
+        "Car_name": "Royal Enfield Thunder 500",
+        "min_selling_price": 1.05
+    },
+    {
+        "Car_name": "Suzuki Access 125",
+        "min_selling_price": 0.25
+    },
+    {
+        "Car_name": "TVS Apache RTR 160",
+        "min_selling_price": 0.42
+    },
+    {
+        "Car_name": "TVS Apache RTR 180",
+        "min_selling_price": 0.45
+    },
+    {
+        "Car_name": "TVS Jupyter",
+        "min_selling_price": 0.35
+    },
+    {
+        "Car_name": "TVS Sport ",
+        "min_selling_price": 0.48
+    },
+    {
+        "Car_name": "TVS Wego",
+        "min_selling_price": 0.25
+    },
+    {
+        "Car_name": "UM Renegade Mojave",
+        "min_selling_price": 1.7
+    },
+    {
+        "Car_name": "Yamaha FZ  v 2.0",
+        "min_selling_price": 0.6
+    },
+    {
+        "Car_name": "Yamaha FZ 16",
+        "min_selling_price": 0.75
+    },
+    {
+        "Car_name": "Yamaha FZ S ",
+        "min_selling_price": 0.4
+    },
+    {
+        "Car_name": "Yamaha FZ S V 2.0",
+        "min_selling_price": 0.48
+    },
+    {
+        "Car_name": "Yamaha Fazer ",
+        "min_selling_price": 0.5
+    },
+    {
+        "Car_name": "alto 800",
+        "min_selling_price": 2.85
+    },
+    {
+        "Car_name": "alto k10",
+        "min_selling_price": 1.95
+    },
+    {
+        "Car_name": "amaze",
+        "min_selling_price": 3.65
+    },
+    {
+        "Car_name": "baleno",
+        "min_selling_price": 5.85
+    },
+    {
+        "Car_name": "brio",
+        "min_selling_price": 3.0
+    },
+    {
+        "Car_name": "camry",
+        "min_selling_price": 2.5
+    },
+    {
+        "Car_name": "ciaz",
+        "min_selling_price": 6.75
+    },
+    {
+        "Car_name": "city",
+        "min_selling_price": 2.1
+    },
+    {
+        "Car_name": "corolla",
+        "min_selling_price": 1.5
+    },
+    {
+        "Car_name": "corolla altis",
+        "min_selling_price": 3.6
+    },
+    {
+        "Car_name": "creta",
+        "min_selling_price": 11.25
+    },
+    {
+        "Car_name": "dzire",
+        "min_selling_price": 2.25
+    },
+    {
+        "Car_name": "elantra",
+        "min_selling_price": 11.45
+    },
+    {
+        "Car_name": "eon",
+        "min_selling_price": 2.0
+    },
+    {
+        "Car_name": "ertiga",
+        "min_selling_price": 5.8
+    },
+    {
+        "Car_name": "etios cross",
+        "min_selling_price": 4.5
+    },
+    {
+        "Car_name": "etios g",
+        "min_selling_price": 3.95
+    },
+    {
+        "Car_name": "etios gd",
+        "min_selling_price": 4.75
+    },
+    {
+        "Car_name": "etios liva",
+        "min_selling_price": 2.65
+    },
+    {
+        "Car_name": "fortuner",
+        "min_selling_price": 9.25
+    },
+    {
+        "Car_name": "grand i10",
+        "min_selling_price": 3.9
+    },
+    {
+        "Car_name": "i10",
+        "min_selling_price": 2.55
+    },
+    {
+        "Car_name": "i20",
+        "min_selling_price": 2.9
+    },
+    {
+        "Car_name": "ignis",
+        "min_selling_price": 4.9
+    },
+    {
+        "Car_name": "innova",
+        "min_selling_price": 2.75
+    },
+    {
+        "Car_name": "jazz",
+        "min_selling_price": 2.25
+    },
+    {
+        "Car_name": "land cruiser",
+        "min_selling_price": 35.0
+    },
+    {
+        "Car_name": "omni",
+        "min_selling_price": 1.25
+    },
+    {
+        "Car_name": "ritz",
+        "min_selling_price": 2.35
+    },
+    {
+        "Car_name": "s cross",
+        "min_selling_price": 6.5
+    },
+    {
+        "Car_name": "swift",
+        "min_selling_price": 3.0
+    },
+    {
+        "Car_name": "sx4",
+        "min_selling_price": 1.95
+    },
+    {
+        "Car_name": "verna",
+        "min_selling_price": 4.5
+    },
+    {
+        "Car_name": "vitara brezza",
+        "min_selling_price": 9.25
+    },
+    {
+        "Car_name": "wagon r",
+        "min_selling_price": 1.05
+    },
+    {
+        "Car_name": "xcent",
+        "min_selling_price": 4.4
+    }
+]
