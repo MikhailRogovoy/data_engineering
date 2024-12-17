@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "min_age_in_table_before_del",
+        "job": "Продавец",
+        "salary": 137584,
+        "id": 1449917,
+        "city": "Фигерас",
+        "year": 2013,
+        "age": 20
+    },
+    {
+        "_id": "min_age_in_table_after_del",
+        "job": "Медсестра",
+        "salary": 92363,
+        "id": 4360507,
+        "city": "Любляна",
+        "year": 2007,
+        "age": 25
+    }
+]

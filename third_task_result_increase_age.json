@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "min_age_before_upd_in_table",
+        "job": "Продавец",
+        "salary": 137584,
+        "id": 1449917,
+        "city": "Фигерас",
+        "year": 2013,
+        "age": 19
+    },
+    {
+        "_id": "max_age_before_upd_in_table",
+        "job": "Психолог",
+        "salary": 70639,
+        "id": 9906372,
+        "city": "Бишкек",
+        "year": 2016,
+        "age": 66
+    },
+    {
+        "_id": "min_age_after_upd_in_table",
+        "job": "Продавец",
+        "salary": 137584,
+        "id": 1449917,
+        "city": "Фигерас",
+        "year": 2013,
+        "age": 20
+    },
+    {
+        "_id": "max_age_after_upd_in_table",
+        "job": "Психолог",
+        "salary": 70639,
+        "id": 9906372,
+        "city": "Бишкек",
+        "year": 2016,
+        "age": 67
+    }
+]

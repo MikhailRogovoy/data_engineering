@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "min_salary_by_complex_cond_before_upd_in_table",
+        "job": "Медсестра",
+        "salary": 30658,
+        "id": 2502293,
+        "city": "Хихон",
+        "year": 2018,
+        "age": 58
+    },
+    {
+        "_id": "max_salary_by_complex_cond_before_upd_in_table",
+        "job": "Врач",
+        "salary": 131237.19,
+        "id": 7687414,
+        "city": "Хихон",
+        "year": 2004,
+        "age": 59
+    },
+    {
+        "_id": "min_salary_by_complex_cond_after_upd_in_table",
+        "job": "Медсестра",
+        "salary": 33723.8,
+        "id": 2502293,
+        "city": "Хихон",
+        "year": 2018,
+        "age": 58
+    },
+    {
+        "_id": "max_salary_by_complex_cond_after_upd_in_table",
+        "job": "Врач",
+        "salary": 144360.909,
+        "id": 7687414,
+        "city": "Хихон",
+        "year": 2004,
+        "age": 59
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "min_salary_by_job_before_upd_in_table",
+        "job": "Учитель",
+        "salary": 26316.15,
+        "id": 6953334,
+        "city": "Навалькарнеро",
+        "year": 2017,
+        "age": 42
+    },
+    {
+        "_id": "max_salary_by_job_before_upd_in_table",
+        "job": "Инженер",
+        "salary": 183478.05000000002,
+        "id": 9952055,
+        "city": "Бишкек",
+        "year": 2016,
+        "age": 49
+    },
+    {
+        "_id": "min_salary_by_job_after_upd_in_table",
+        "job": "Учитель",
+        "salary": 27631.957500000004,
+        "id": 6953334,
+        "city": "Навалькарнеро",
+        "year": 2017,
+        "age": 42
+    },
+    {
+        "_id": "max_salary_by_job_after_upd_in_table",
+        "job": "Инженер",
+        "salary": 192651.9525,
+        "id": 9952055,
+        "city": "Бишкек",
+        "year": 2016,
+        "age": 49
+    }
+]

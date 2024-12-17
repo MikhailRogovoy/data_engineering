@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "min_salary_by_city_before_upd_in_table",
+        "job": "Продавец",
+        "salary": 27975,
+        "id": 4136333,
+        "city": "Барселона",
+        "year": 2019,
+        "age": 29
+    },
+    {
+        "_id": "max_salary_by_city_before_upd_in_table",
+        "job": "Учитель",
+        "salary": 186602.53500000003,
+        "id": 7301979,
+        "city": "Будапешт",
+        "year": 2010,
+        "age": 31
+    },
+    {
+        "_id": "min_salary_by_city_after_upd_in_table",
+        "job": "Продавец",
+        "salary": 29933.25,
+        "id": 4136333,
+        "city": "Барселона",
+        "year": 2019,
+        "age": 29
+    },
+    {
+        "_id": "max_salary_by_city_after_upd_in_table",
+        "job": "Учитель",
+        "salary": 199664.71245000005,
+        "id": 7301979,
+        "city": "Будапешт",
+        "year": 2010,
+        "age": 31
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "min_salary_in_table_after_del",
+        "job": "Учитель",
+        "salary": 25063,
+        "id": 6953334,
+        "city": "Навалькарнеро",
+        "year": 2017,
+        "age": 40
+    },
+    {
+        "_id": "max_salary_in_table_after_del",
+        "job": "Оператор call-центра",
+        "salary": 174874,
+        "id": 3006078,
+        "city": "Минск",
+        "year": 2014,
+        "age": 50
+    }
+]
