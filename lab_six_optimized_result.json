@@ -1,0 +1,146 @@
+[
+    {
+        "Column name": "App Name",
+        "Memory usage by column, Mb": 167.98,
+        "Memory percent, %": 19.48,
+        "dtype": "object"
+    },
+    {
+        "Column name": "App Id",
+        "Memory usage by column, Mb": 167.99,
+        "Memory percent, %": 19.48,
+        "dtype": "object"
+    },
+    {
+        "Column name": "Privacy Policy",
+        "Memory usage by column, Mb": 135.01,
+        "Memory percent, %": 15.66,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Developer Email",
+        "Memory usage by column, Mb": 105.58,
+        "Memory percent, %": 12.25,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Developer Website",
+        "Memory usage by column, Mb": 100.4,
+        "Memory percent, %": 11.65,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Developer Id",
+        "Memory usage by column, Mb": 72.07,
+        "Memory percent, %": 8.36,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Rating Count",
+        "Memory usage by column, Mb": 17.65,
+        "Memory percent, %": 2.05,
+        "dtype": "float64"
+    },
+    {
+        "Column name": "Maximum Installs",
+        "Memory usage by column, Mb": 17.65,
+        "Memory percent, %": 2.05,
+        "dtype": "uint64"
+    },
+    {
+        "Column name": "Scraped Time",
+        "Memory usage by column, Mb": 15.21,
+        "Memory percent, %": 1.76,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Rating",
+        "Memory usage by column, Mb": 8.82,
+        "Memory percent, %": 1.02,
+        "dtype": "float32"
+    },
+    {
+        "Column name": "Minimum Installs",
+        "Memory usage by column, Mb": 8.82,
+        "Memory percent, %": 1.02,
+        "dtype": "float32"
+    },
+    {
+        "Column name": "Price",
+        "Memory usage by column, Mb": 8.82,
+        "Memory percent, %": 1.02,
+        "dtype": "float32"
+    },
+    {
+        "Column name": "Released",
+        "Memory usage by column, Mb": 4.78,
+        "Memory percent, %": 0.55,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Last Updated",
+        "Memory usage by column, Mb": 4.77,
+        "Memory percent, %": 0.55,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Size",
+        "Memory usage by column, Mb": 4.56,
+        "Memory percent, %": 0.53,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Minimum Android",
+        "Memory usage by column, Mb": 4.42,
+        "Memory percent, %": 0.51,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Category",
+        "Memory usage by column, Mb": 2.21,
+        "Memory percent, %": 0.26,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Installs",
+        "Memory usage by column, Mb": 2.21,
+        "Memory percent, %": 0.26,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Free",
+        "Memory usage by column, Mb": 2.21,
+        "Memory percent, %": 0.26,
+        "dtype": "bool"
+    },
+    {
+        "Column name": "Currency",
+        "Memory usage by column, Mb": 2.21,
+        "Memory percent, %": 0.26,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Content Rating",
+        "Memory usage by column, Mb": 2.21,
+        "Memory percent, %": 0.26,
+        "dtype": "category"
+    },
+    {
+        "Column name": "Ad Supported",
+        "Memory usage by column, Mb": 2.21,
+        "Memory percent, %": 0.26,
+        "dtype": "bool"
+    },
+    {
+        "Column name": "In App Purchases",
+        "Memory usage by column, Mb": 2.21,
+        "Memory percent, %": 0.26,
+        "dtype": "bool"
+    },
+    {
+        "Column name": "Editors Choice",
+        "Memory usage by column, Mb": 2.21,
+        "Memory percent, %": 0.26,
+        "dtype": "bool"
+    }
+]

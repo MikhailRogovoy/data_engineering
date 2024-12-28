@@ -1,0 +1,12 @@
+{
+    "App Name": "object",
+    "Category": "category",
+    "Rating": "float32",
+    "Rating Count": "float64",
+    "Installs": "category",
+    "Maximum Installs": "uint64",
+    "Free": "bool",
+    "Price": "float32",
+    "Size": "category",
+    "In App Purchases": "bool"
+}
